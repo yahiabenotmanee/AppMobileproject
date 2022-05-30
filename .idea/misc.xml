@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/background_btn.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/bg_round.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/edit_text_background.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/theme_button.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/top_background.xml" value="0.5" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/white_button.xml" value="0.228" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_login_page.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_signup_page.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/bachground_linear.xml" value="0.213" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/button.xml" value="0.1955" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/button_h.xml" value="0.2775" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/forget.xml" value="0.1955" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/drawable/top_background.xml" value="0.213" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_login_page.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/Yahia Benotmane/Desktop/PROJECTS/Login-And-Signup-Page-for-Cryptocurrency-main/app/src/main/res/layout/activity_signup_page.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
